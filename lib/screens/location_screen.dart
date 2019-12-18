@@ -74,3 +74,9 @@ class _LocationScreenState extends State<LocationScreen> {
     );
   }
 }
+
+/*
+
+String cityName = jsonData["name"];
+int condition = jsonData["weather"][0]["id"];
+double temperature = jsonData["main"]["temp"];*/
